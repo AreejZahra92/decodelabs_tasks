@@ -1,6 +1,6 @@
 # Cybersecurity Internship – DecodeLabs
 
-This repository contains my project submissions for the Cybersecurity Internship at DecodeLabs. Each task focuses on a core security concept, implemented from scratch in Python.
+This repository contains my project submissions for the Cybersecurity Internship at DecodeLabs. Each task focuses on a core cybersecurity concept, implemented using Python or technical security documentation.
 
 ---
 
@@ -48,6 +48,40 @@ Python
 
 ---
 
+## 🎣 Project 3: Phishing Awareness Analysis
+
+### Description
+This project focuses on identifying and analyzing different types of phishing attacks. It includes detailed analysis of simulated phishing emails and messages, highlights common red flags, explains why each sample is suspicious or malicious, and provides a practical decision tree for identifying phishing attempts.
+
+### Features
+- Analysis of multiple phishing scenarios
+- Identification of suspicious links, domains, and phishing keywords
+- Explanation of common phishing red flags
+- Phishing awareness checklist for non-technical users
+- Triage decision tree for classifying messages as Safe, Suspicious, or Malicious
+- Best practices for recognizing and reporting phishing attacks
+
+### Topics Covered
+- Mass Phishing
+- Spear Phishing / Business Email Compromise (BEC)
+- Smishing (SMS Phishing)
+- Callback Phishing (TOAD)
+- Safe vs Malicious Email Identification
+
+### Tech Used
+Markdown Documentation
+
+**File:** `Task-3.md`
+
+---
+
 ## 📌 About
-Industrial Training Kit – Cyber Security Track
-Powered by DecodeLabs
+
+This repository contains my completed tasks for the **DecodeLabs Cybersecurity Internship (Batch 2026)**. Each project demonstrates a different cybersecurity concept, ranging from password security and cryptography to phishing awareness and social engineering defense.
+
+### Projects Included
+- 🔐 Password Strength Checker
+- 🔑 Caesar Cipher Encryption & Decryption
+- 🎣 Phishing Awareness Analysis
+
+**Powered by DecodeLabs**
